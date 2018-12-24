@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62b88865-005f-4c04-be8f-be85ef173ca0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/DRF/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/DRF/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="62b88865-005f-4c04-be8f-be85ef173ca0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -273,12 +271,12 @@
       <workItem from="1545334005635" duration="9660000" />
       <workItem from="1545416159619" duration="1942000" />
       <workItem from="1545503974811" duration="3273000" />
-      <workItem from="1545628425490" duration="6223000" />
+      <workItem from="1545628425490" duration="6464000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23547000" />
+    <option name="totallyTimeSpent" value="23788000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="360" y="66" width="1400" height="1000" extended-state="0" />
