@@ -5,7 +5,7 @@ import sys
 if __name__ == '__main__':
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'DRF.settings')
     try:
-        # Override default port for `runserver` command
+        # # Override default port for `runserver` command
         from django.core.management.commands.runserver import Command as runserver
         runserver.default_port = int(os.environ.get('PORT', 5000))
 
